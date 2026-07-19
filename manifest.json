@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "cthung-snvquangngai",
+  "version": "1.0",
+  "description": "Credit: Cao Tiến Hưng, Sở Nội Vụ Quảng Ngãi",
+  "author": "Cao Tiến Hưng",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Autofill Trợ Cấp Thất Nghiệp"
+  }
+}
